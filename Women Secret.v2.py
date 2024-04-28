@@ -1,6 +1,6 @@
-#import PySimpleGUI as sg
-#import pandas as pd
-#import numpy as np
+import PySimpleGUI as sg
+import pandas as pd
+import numpy as np
 import os
 import openpyxl 
 from datetime import date
