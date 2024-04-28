@@ -1,0 +1,7 @@
+build/
+dist/
+Resultats/
+/*.xlsx
+/*.xlsm
+/*.exe
+/*.spec
